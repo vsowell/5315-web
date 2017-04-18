@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CATALOG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CD>
+		<TITLE>I gotta feeling</TITLE>
+		<ARTIST>Black Eyed Peas</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>API Records</COMPANY>
+		<PRICE>5</PRICE>
+		<YEAR>2005</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Straigh Outta Compton</TITLE>
+		<ARTIST>NWA</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Ruthless</COMPANY>
+		<PRICE>4</PRICE>
+		<YEAR>1988</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Express Yourself</TITLE>
+		<ARTIST>NWA</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Ruthless</COMPANY>
+		<PRICE>4</PRICE>
+		<YEAR>1988</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Cat Songs</TITLE>
+		<ARTIST>Meowriffic</ARTIST>
+		<COUNTRY>Bulgaria</COUNTRY>
+		<COMPANY>I Love Cats</COMPANY>
+		<PRICE>20</PRICE>
+		<YEAR>2015</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Songs of the Himalayas</TITLE>
+		<ARTIST>Greenlake Guy</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>3Miles</COMPANY>
+		<PRICE>1</PRICE>
+		<YEAR>2017</YEAR>
+	</CD>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+</CATALOG>
